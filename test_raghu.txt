@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 8A8E-70AD
+
+ Directory of C:\Raghu\Git\MyNewProject
+
+11/02/2020  10:35 AM    <DIR>          .
+11/02/2020  10:35 AM    <DIR>          ..
+11/02/2020  10:35 AM                 0 test_raghu.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  800,298,127,360 bytes free
