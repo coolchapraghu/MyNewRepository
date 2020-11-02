@@ -6,5 +6,5 @@
 11/02/2020  10:35 AM    <DIR>          .
 11/02/2020  10:35 AM    <DIR>          ..
 11/02/2020  10:35 AM                 0 test_raghu.txt
-               1 File(s)              0 bytes
+               1 File(s)              450 bytes
                2 Dir(s)  800,298,127,360 bytes free
